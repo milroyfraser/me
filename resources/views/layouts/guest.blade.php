@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>@milroyfraser</title>
+        <title>Milroy Fraser | @milroyfraser</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -17,10 +17,12 @@
         <!-- Styles -->
         @livewireStyles
     </head>
-    <body>
+    <body class="flex flex-col min-h-screen">
         <div class="font-sans text-gray-900 antialiased">
             {{ $slot }}
         </div>
+
+        <x-footer />
 
         @livewireScripts
     </body>

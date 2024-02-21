@@ -1,5 +1,5 @@
 <section>
-    <div class="container max-w-screen-xl mx-auto">
+    <x-container>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 
             <a class="px-8 py-10 bg-sky-700 hover:bg-sky-600" href="#">
@@ -8,7 +8,7 @@
                         <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                         <path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z"/>
                     </svg>
-                    <h4 class="font-medium text-white text-lg ml-4">Echonomous</h4>
+                    <h4 class="font-medium text-white text-lg ml-4">echonomous.ai</h4>
                 </div>
                 <p class="font-normal text-white text-md">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
             </a>
@@ -35,5 +35,5 @@
                 <p class="font-normal text-white text-md">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
             </a>
         </div>
-    </div>
+    </x-container>
 </section>
