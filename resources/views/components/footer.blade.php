@@ -10,10 +10,10 @@
             <p class="text-gray-600 text-xs mt-10">Copyright © {{ now()->format('Y') }} Milroy Fraser.</p>
             <p class="text-sky-900 text-xs mt-2">
                 <small>
-                    <a href="#">{{ now()->diffInDays('2031-01-21 23:59:59') }}</a>
-                    <a href="#">{{ now()->diffInWeeks('2031-01-21 23:59:59') }}</a>
-                    <a href="#">{{ now()->diffInMonths('2031-01-21 23:59:59') }}</a>
-                    <a href="#">{{ now()->diffInYears('2031-01-21 23:59:59') }}</a>
+                    <a href="#" data-interval="days">{{ now()->diffInDays('2031-01-21 23:59:59') }}</a>
+                    <a href="#" data-interval="weeks">{{ now()->diffInWeeks('2031-01-21 23:59:59') }}</a>
+                    <a href="#" data-interval="months">{{ now()->diffInMonths('2031-01-21 23:59:59') }}</a>
+                    <a href="#" data-interval="years">{{ now()->diffInYears('2031-01-21 23:59:59') }}</a>
                 </small>
             </p>
         </div>

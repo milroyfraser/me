@@ -6,7 +6,7 @@
             </div>
             <h6 class="font-medium text-gray-600 text-lg md:text-2xl uppercase tracking-widest">MILROY FRASER</h6>
             <h1 class="text-6xl md:text-7xl font-bold mb-5 text-gray-800 leading-none py-8 tracking-widest">Software Engineer</h1>
-            <p class="font-normal text-gray-600 text-md md:text-xl mb-16">I have a passion for software. I enjoy creating tools that make life easier for people.</p>
+            <p class="font-normal text-gray-600 text-md md:text-xl mb-16">I love coding and cooking.</p>
             <x-follow-me />
         </div>
     </x-container>

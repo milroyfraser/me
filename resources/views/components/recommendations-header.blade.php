@@ -1,5 +1,5 @@
 <div class="text-center max-w-xl mx-auto">
-    <h1 class="text-4xl md:text-6xl font-bold mb-5 text-sky-900">Recommendations</h1>
+    <h1 class="text-4xl md:text-6xl font-bold mb-5 text-sky-900 tracking-wide">Recommendations</h1>
     <h3 class="text-xl mb-5 text-sky-900 font-light">Professional praise from those I've worked with.</h3>
     <div class="text-center mb-10">
         <span class="inline-block w-1 h-1 rounded-full bg-sky-700 ml-1"></span>

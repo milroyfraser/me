@@ -1,0 +1,13 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "single_line_empty_body": true,
+        "trailing_comma_in_multiline": {
+            "elements": ["arrays", "arguments", "parameters"]
+        },
+        "new_with_braces": {
+            "anonymous_class": false,
+            "named_class": false
+        }
+    }
+}

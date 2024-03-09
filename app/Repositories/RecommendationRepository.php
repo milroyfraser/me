@@ -156,7 +156,7 @@ class RecommendationRepository
             'body' => [
                 "During my time at Temper, I had the pleasure to work closely with Milroy. Not only is he an outstanding full stack developer, he is also one of the kindest and most committed team members I've had the pleasure of working with. I hope our paths will cross again in the future.",
             ],
-        ]
+        ],
     ];
 
     /** @return Collection<Recommendation> */
